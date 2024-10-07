@@ -12,3 +12,15 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+#form{
+    background-color: gray;
+    border-radius: 7px;
+    width:400px;
+    height:300px;
+}
+
+input{
+    width:100%;
+    padding:12px;
+}
