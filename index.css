@@ -23,4 +23,12 @@ body{
 input{
     width:100%;
     padding:12px;
+    color:white;
+}
+
+#submit-btn{
+    background-color: blueviolet;
+    border-radius:7px;
+    border: none;
+    margin-bottom: 15px;
 }
