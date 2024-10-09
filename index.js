@@ -27,6 +27,6 @@ console.log(header)
  
 submit.addEventListener("focus", myFunction)
 
-function myFunction(){
+function myFunction(e){
     console.log(e.target.value);
 }
