@@ -23,3 +23,10 @@ let header = document.getElementById("header");
 header.appendChild(newElement);
 const myHeading = document.querySelector
 console.log(header)
+//FOCUS AND BLUR
+ 
+submit.addEventListener("focus", myFunction)
+
+function myFunction(){
+    console.log(e.target.value);
+}
